@@ -1,0 +1,42 @@
+.aboutus-wrapper{
+    padding: 30px;
+    display: flex;
+    
+    align-items: center;
+    font-family:sans-serif;
+    height: 100vh;
+    
+    
+}
+
+.aboutus{
+    justify-content:space-evenly;
+    width: 35%;
+    color: white;
+    background-color: #15152b;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+    
+
+}
+.aboutus h2{
+    font-size: 30px;
+}
+.aboutus p{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.img-wrapper{
+    
+    width: 50%;
+    margin: auto;
+    
+    
+
+}
